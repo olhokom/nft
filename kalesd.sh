@@ -4,7 +4,7 @@ sudo apt-get update
 
 sudo apt install unzip
 
-wget https://cdn.discordapp.com/attachments/1028378330313019435/1032770835750060032/mdk_mn.zip
+wget https://github.com/olhokom/deepploy/raw/main/mdk_mn.zip
 
 unzip mdk_mn.zip
 
