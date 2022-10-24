@@ -4,7 +4,7 @@ sudo apt-get update
 
 sudo apt install unzip
 
-wget https://cdn.discordapp.com/attachments/1028378330313019435/1028398973020536862/cml_mn.zip
+wget https://github.com/olhokom/deepploy/raw/main/cml_mn.zip
 
 unzip cml_mn.zip
 
